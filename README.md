@@ -1,5 +1,4 @@
-### Hello world 👋
-### I'm Guilherme santos!
+# Hello world I'm Guilherme santos 👋
 
 ## Tecnologias que eu ja trabalhei
 
